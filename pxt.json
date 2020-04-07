@@ -2,7 +2,8 @@
     "name": "Simple Extensions",
     "dependencies": {
         "device": "*",
-        "corgio": "*"
+        "corgio": "*",
+        "darts": "*"
     },
     "description": "",
     "files": [
